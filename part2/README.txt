@@ -1,5 +1,5 @@
-* References
-
+ References
+===========
 
 Background Gradient obtained from:http://www.cssmatic.com/gradient-generator#
 
