@@ -1,3 +1,6 @@
+* References
+
+
 Background Gradient obtained from:http://www.cssmatic.com/gradient-generator#
 
 Alignment of images vertically within container: http://stackoverflow.com/questions/7273338/how-to-vertically-align-an-image-inside-div from user Kizu
@@ -10,4 +13,4 @@ hardwork image: http://www.okhlaheadlines.com/success-mantra/hard-work.html
 
 computer image: http://cliparts.co/computer-logo-pictures
 
-navbar: http://www.w3schools.com/css/css_navbar.asp
+navbar tutorial used: http://www.w3schools.com/css/css_navbar.asp
