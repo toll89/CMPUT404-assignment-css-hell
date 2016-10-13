@@ -1,0 +1,163 @@
+html,body {
+	margin 0;
+	color: grey;
+	font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+	
+body {
+
+	background: #90cb5f; 
+	background: -moz-linear-gradient(top,  #90cb5f 0%, #8e0061 28%, #78c147 50%, #c800de 66%, #7ee038 100%); 
+	background: -webkit-linear-gradient(top,  #90cb5f 0%,#8e0061 28%,#78c147 50%,#c800de 66%,#7ee038 100%); 
+	background: linear-gradient(to bottom,  #90cb5f 0%,#8e0061 28%,#78c147 50%,#c800de 66%,#7ee038 100%); 
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#90cb5f', endColorstr='#7ee038',GradientType=0 ); 
+}
+
+header {
+	position:relative;
+	display: inline-block;
+	list-style-type: none;
+	height: 200px;
+	width: 100%;
+	background-image: url("../img/happy-face.jpg");
+}
+
+
+
+#logotext{
+	margin-left:300px;
+	color:purple;
+	font-size: 15px;
+
+}
+#logosubtext{
+	margin-top:0;
+	font-size: 48px;
+	color: purple;
+	margin-left:500px;
+}
+
+h2 {
+	font-size: 20px;
+	text-align: right;
+}
+
+
+#sidebar{
+	position: absolute;
+	width: 200px;
+	top: 5%;
+	right: 50%;
+	height: 600px;
+	background-color: orange;
+	text-align: right;
+	min-width: 250px
+}
+
+#sidehead{
+	font-size:20px;
+	font-style: italic;
+	line-height:20%;
+	margin-botton:0;
+	color: pink;
+}
+
+#sidehead2{
+	font-size:36px;
+	margin-top: 0;
+	margin-bottom: 10px;
+	padding: 0;
+	line-height:10%;
+	color: green;
+}
+p.sidetext{
+	margin: 0px 15px 10px 15px;
+	font-size: 14px;
+	color: blue;
+}
+
+
+.container{
+	position: relative;
+	
+
+}
+.articles{
+
+	position: relative;
+	margin-left: 20px;
+	margin-top:10px;
+
+}
+.section {
+	
+	display: inline-block;
+	vertical-align: bottom;
+	height: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+
+p.sectiontext{
+	padding: 0px 30px 20px 0px;
+	margin-right: 25%;
+}
+
+#histimage{
+	float:right;
+	margin-right: 30%;
+	-webkit-filter: invert(100%);filter: invert(100%);
+}
+
+#hwimage{
+	float: right;
+	width:  150px;
+	margin-right: 20px;
+	-webkit-filter: blur(4px);filter: blur(4px);
+}
+#profimage{
+	position:absolute;
+	-webkit-filter: blur(4px);filter: blur(4px);
+	bottom: 0;
+}
+
+
+
+footer {
+	text-align: center;
+	position: relative;
+	bottom: 0;
+	width: 100%;
+	background-color: silver;
+}
+nav{
+	position: absolute;
+	bottom: 0;
+    text-align:center;
+	width: 100%;
+	margin-top:20px;
+
+}
+
+nav ul {
+	
+	list-style-type: none;
+	background-color:teal;
+	
+
+}
+
+li {
+	
+	font-size: 24px;
+	text-decoration:none;
+}
+
+li a{
+	color: white;
+	text-align: center;
+	padding-left:50px;
+	padding-right: 50px;
+	padding-bottom: 10px;
+	text-decoration: none;
